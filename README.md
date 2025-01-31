@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact **A friendly and approachable leader with a strong focus on communication. Passionate about building connections, fostering teamwork, and inspiring others to reach their full potential.**
 
-- <h3 align="left">Languages and Tools:</h3>
+###
+
 <h3 align="left">Language and Tools</h3>
 
 ###
@@ -53,6 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+###
 
 
 
