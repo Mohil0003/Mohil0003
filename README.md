@@ -54,9 +54,11 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohil0003&layout=compact&theme=radical)
 
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohil0003&show_icons=true&theme=radical)
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Stats&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohil0003&style=for-the-badge)
 
-![Contribution Graph](https://github-contribution-graph.ez4o.com/?username=Mohil0003&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohil0003&theme=react-dark)
+
 
 ###
 
