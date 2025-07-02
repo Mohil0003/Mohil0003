@@ -51,10 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohil0003&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohil0003&layout=compact&theme=radical)
 
+![Mohil0003's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohil0003&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Stats&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohil0003&style=for-the-badge)
 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohil0003&theme=react-dark)
