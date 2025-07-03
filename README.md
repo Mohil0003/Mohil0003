@@ -63,6 +63,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohil0003&theme=react-dark" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mohil0003&label=PROFILE+VIEWS&color=red&style=for-the-badge)
 
 ---
 
