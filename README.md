@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer from Rajkot , Gujarat , India</h3>
 
 
-- 🌱 I’m currently learning **Data Structures in Java, Fullstack Development, SQL , Flutter ,Python**
+- 🌱 I’m currently learning **Data Mining, DAA, .NET, Fullstack Development**
 
-- 💬 Ask me about **Data Structure, Javascript, Java, SQL, C, HTML, CSS**
+- 💬 Ask me about **Data Structure, React, Javascript, Java, Python, SQL, C, HTML, CSS**
 
 - 📫 How to reach me **mohilparmar1526@gmail.com**
 
