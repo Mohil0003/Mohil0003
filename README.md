@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Rajkot , Gujarat , India</h3>
 
 
-- 🌱 I’m currently learning **Data Mining, DAA, .NET, Fullstack Development**
+- 🌱 I’m currently learning **Data Mining, DAA, ASP.NET Core, Fullstack Development**
 
 - 💬 Ask me about **Data Structure, React, Javascript, Java, Python, SQL, C, HTML, CSS**
 
