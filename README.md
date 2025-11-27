@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer from Rajkot , Gujarat , India</h3>
 
 
-- 🌱 I’m currently learning **Data Mining, DAA, ASP.NET Core, Fullstack Development**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning, Restfull APIs with ASP.NET, Operating System, Automata Theory & Compiler Construction**
 
-- 💬 Ask me about **Data Structure, React, Javascript, Java, Python, SQL, C, HTML, CSS**
+- 💬 Ask me about **Data Structure & Algorithm, MVC Framework in ASP.NET, MERN Stack, Javascript, Java, Python, C, C#, SQL**
 
 - 📫 How to reach me **mohilparmar1526@gmail.com**
 
